@@ -531,15 +531,7 @@ footer{
 
 @media screen and (max-width:600px){
    nav{
-        text-align: center;
-        padding: 20px 0 0 0;
-    }
-
-    nav > a{
-        margin-right: 5px;
-        font-size: 19px;
-	text-shadow: #414141 1px 0;
-   
+       display: none;
     }
 
     .textos-header h1{
