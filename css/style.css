@@ -532,12 +532,13 @@ footer{
 @media screen and (max-width:500px){
    nav{
         text-align: center;
-        padding: 30px 0 0 0;
+        padding: 20px 0 0 0;
     }
 
     nav > a{
         margin-right: 5px;
         font-size: 19px;
+	text-shadow: #414141 2px 2px;
    
     }
 
