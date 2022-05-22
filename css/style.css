@@ -538,7 +538,7 @@ footer{
     nav > a{
         margin-right: 5px;
         font-size: 19px;
-	text-shadow: #414141 2px 2px;
+	text-shadow: #414141 2px 0;
    
     }
 
